@@ -11,7 +11,7 @@
 ```python
 class  Abhishek Kumar Yadav:
     def _init_(self):
-        self.role = ["Software Developer @ Data Analyst"]
+        self.role = ["Web Developer @ Data Analyst"]
         self.extracurricular = [
             "Tutor @ Machine Learning",
             "Open Source Contributor",
