@@ -8,19 +8,19 @@
 ---
 
 ```python
-class AdityaYadav:
+class  Abhishek Kumar Yadav:
     def _init_(self):
-        self.role = ["Software Developer @ AcutusAI"]
+        self.role = ["Software Developer @ Data Analyst"]
         self.extracurricular = [
             "Tutor @ Machine Learning",
             "Open Source Contributor",
-            "Freelancer | App Developer"
+            "Freelancer | Data Analyst & Developer"
         ]
         self.focus = [, "Mathematics", "Scalable AI Solutions"]
         self.stack = {
             "Frontend": ["HTML", "CSS", "JavaScript"],
         self.stack = {
-            "Progrqamming language": ["C", "C++", "JAVA"]
+            "Progrqamming language": ["C", "C++", "Python"]
              }
          self.stack = {
             "Basic Fundamentals": ["Ms-Word", "Ms-Excel", "Ms-Powerpoint"]
