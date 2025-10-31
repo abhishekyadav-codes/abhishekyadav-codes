@@ -1,16 +1,27 @@
-## Hi there 👋
+# &emsp;&emsp;&emsp;&emsp;&emsp;Aditya Yadav | BCA Student | Software Developer 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-yadav-42bb12373)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox)]( https://adityayadav-codes.github.io/My-Portfolio/)
 
-<!--
-**Abhishek-8050/Abhishek-8050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class AdityaYadav:
+    def _init_(self):
+        self.role = ["Software Developer @ AcutusAI"]
+        self.extracurricular = [
+            "Tutor @ Machine Learning",
+            "Open Source Contributor",
+            "Freelancer | App Developer"
+        ]
+        self.focus = [, "Mathematics", "Scalable AI Solutions"]
+        self.stack = {
+            "Frontend": ["HTML", "CSS", "JavaScript"],
+        self.stack = {
+            "Progrqamming language": ["C", "C++", "JAVA"]
+             }
+         self.stack = {
+            "Basic Fundamentals": ["Ms-Word", "Ms-Excel", "Ms-Powerpoint"]
+             }
