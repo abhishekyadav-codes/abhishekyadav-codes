@@ -7,8 +7,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox)]( #)
 
 ---
-# 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityayadav-codes&theme=github-compact)
+## 📊 GitHub Stats
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-8050&theme=github-compact)
+![](https://nirzak-streak-stats.vercel.app/?user=Abhishek-8050&theme=dark&hide_border=false)
 
 ```python
 class  Abhishek Kumar Yadav:
