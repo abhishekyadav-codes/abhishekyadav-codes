@@ -13,7 +13,7 @@
 
 ---
 ## 📊 GitHub Stats
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiyadavyadav-codes&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekyadav-codes&theme=github-compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=abhishekyadav-codes&theme=dark&hide_border=false)
 
 ```python
