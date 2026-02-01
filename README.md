@@ -13,8 +13,8 @@
 
 ---
 ## 📊 GitHub Stats
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-8050&theme=github-compact)
-![](https://nirzak-streak-stats.vercel.app/?user=Abhishek-8050&theme=dark&hide_border=false)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiyadavyadav-codes&theme=github-compact)
+![](https://nirzak-streak-stats.vercel.app/?user=abhishekyadav-codes&theme=dark&hide_border=false)
 
 ```python
 class  Abhishek Kumar Yadav:
