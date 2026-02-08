@@ -32,5 +32,5 @@ class  Abhishek Kumar Yadav:
             "Progrqamming language": ["C", "C++", "Python"]
              }
          self.stack = {
-            "Basic Fundamentals": ["Ms-Word", "Ms-Excel", "Ms-Powerpoin"]
+            "Basic Fundamentals": ["Ms-Word", "Ms-Excel", "Ms-Powerpoint"]
              }
