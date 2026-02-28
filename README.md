@@ -33,4 +33,4 @@ class  Abhishek Kumar Yadav:
              }
          self.stack = {
             "Basic Fundamentals": ["Ms-Word", "Ms-Excel","Ms-Powerpoint"]
-             }
+             }.
